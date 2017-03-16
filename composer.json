@@ -29,7 +29,7 @@
         "symfony/form": "~2.3|~3.0",
         "symfony/security-bundle": "~2.3|~3.0"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
     "suggest": {
         "doctrine/doctrine-bundle": "For LDAP object type integration in Doctrine."
     },

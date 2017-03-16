@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "ldaptools/ldaptools": ">=0.23",
+        "newtondasilva/ldaptools": "*",
         "symfony/framework-bundle": "~2.3|~3.0"
     },
     "require-dev": {
